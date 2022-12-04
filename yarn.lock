@@ -2990,9 +2990,9 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 decompress-response@^3.3.0:
   version "3.3.0"
@@ -4326,6 +4326,16 @@ gatsby-telemetry@^1.1.2:
     stack-trace "^0.0.10"
     stack-utils "1.0.2"
     uuid "3.3.2"
+
+gatsby-theme-jam-example@*:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-jam-example/-/gatsby-theme-jam-example-1.0.0.tgz#0b318d7d2feb5f8cc189732b878349a1099859ab"
+  integrity sha512-WHlqaF3ewzNIWZgrpbUy2nU6SoHPsoYM5N8N1C2P0MhhjZlV32mzrXOnMxI6We1PltfgzQGdzwh9XWvtp1Ow8Q==
+  dependencies:
+    "@emotion/core" "^10.0.14"
+    "@mdx-js/react" "^1.0.21"
+    gatsby-plugin-theme-ui "^0.2.2"
+    theme-ui "^0.2.2"
 
 gatsby@^2.13.1:
   version "2.13.1"
